@@ -24,7 +24,7 @@ class Main {
 			}
 		} 
 
-    System.out.println("End of program");
+    System.out.println("End of program and lol");
 	}
 
   

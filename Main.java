@@ -4,10 +4,12 @@ import java.io.StreamTokenizer;
 /* 
 *Lexical analyzer example
 *https://www.concretepage.com/java/java-streamtokenizer-example
-
+*
 *StreamTokenizer oracle docs
-* https://docs.oracle.com/javase/7/docs/api/java/io/StreamTokenizer.html
+*
+https://docs.oracle.com/javase/7/docs/api/java/io/StreamTokenizer.html
 */
+
 
 class Main {
 
@@ -21,6 +23,10 @@ class Main {
 				System.out.println("--End of Line--"); 
 			}
 		} 
+
+    System.out.println("End of program");
 	}
+
+  
 
 }
